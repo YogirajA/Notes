@@ -1,0 +1,21 @@
+Future of Aynchronous Javascript CSP 
+@thaterikperson
+
+@hudl
+
+Reactive javascript, baconJS
+
+Generators  CSP
+
+https://github.com/ubolonton/js-csp
+
+csp.g0
+
+Error hadnling
+
+ES6 feature
+
+Further rea
+devilwahs.gom/Es& Es5 generatory
+
+Copy from the main presentation later
